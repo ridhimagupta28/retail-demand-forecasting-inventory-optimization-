@@ -33,6 +33,4 @@ images/
 reports/
 ```
 
-## Author
 
-**Ridhima Gupta**
